@@ -4,6 +4,7 @@ Repositorio para el acceso a comandos, scripts en R, presentaciones y bases de d
 
 La estructura del repositorio es la siguiente:
 
+```bash
 .
 ├── CURSO_R_CICESE_2023.Rproj
 ├── Poster-R-13-06-2023.pdf
@@ -43,3 +44,4 @@ La estructura del repositorio es la siguiente:
     └── Mimosa_pigra_examen.csv
 
 6 directories, 30 files
+```
