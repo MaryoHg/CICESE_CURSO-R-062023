@@ -2,10 +2,13 @@
 
 Repositorio para el acceso a comandos, scripts en R, presentaciones y bases de datos para el curso "Análisis y visualización de datos en R" dirigido a estudiantes e investigadores del CICESE. Curso impartido del 26 de junio al 07 de julio de 2023.
 
+## Note:
+Presentation 00 has password: @cicese
+
 La estructura del repositorio es la siguiente:
 
 ```bash
-.
+CURSO_R_CICESE_2023
 ├── CURSO_R_CICESE_2023.Rproj
 ├── Poster-R-13-06-2023.pdf
 ├── Poster-R-13-06-2023.pptx
@@ -27,6 +30,7 @@ La estructura del repositorio es la siguiente:
 │   ├── data-visualization.pdf
 │   └── proyecto_frijol_grupal.html
 ├── presentations
+│   ├── Lecture_00_Presentation.pptx
 │   ├── Lecture_01_Intro_Install_Configure_R.pptx
 │   ├── Lecture_02-Bases_de_Datos_en_R.pptx
 │   ├── Lecture_03-Manipulación_Bases_de_Datos_en_R.pptx
@@ -43,5 +47,5 @@ La estructura del repositorio es la siguiente:
     ├── 08_ExamenPracticoRstudio.docx
     └── Mimosa_pigra_examen.csv
 
-6 directories, 30 files
+6 directories, 31 files
 ```
